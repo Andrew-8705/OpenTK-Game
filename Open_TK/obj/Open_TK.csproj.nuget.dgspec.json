@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Open_TK.csproj": {}
+    "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Open_TK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Open_TK.csproj": {
+    "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Open_TK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Open_TK.csproj",
+        "projectUniqueName": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Open_TK.csproj",
         "projectName": "Open_TK",
-        "projectPath": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Open_TK.csproj",
+        "projectPath": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Open_TK.csproj",
         "packagesPath": "C:\\Users\\andrew_baldin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\obj\\",
+        "outputPath": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

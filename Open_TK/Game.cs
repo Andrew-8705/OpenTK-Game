@@ -73,6 +73,8 @@ namespace Open_TK
                 float coinY = 0.5f;
 
                 Coin newCoin = new Coin(new OpenTK.Mathematics.Vector3(coinX, coinY, coinZ));
+                newCoin.Initialize();
+                newCoin.LoadTexture("../../../Textures/coin.jpg");
                 newCoin.MoveSpeedZ = obstacleSpeed; // Используем ту же скорость, что и у препятствий
                 coins.Add(newCoin);
             }
@@ -97,9 +99,9 @@ namespace Open_TK
             shaderProgram.LoadShader();
 
             // -- Загрузка текстур --
-            sphere.LoadTexture("../../../Textures/kolobok4.jpg");
+            sphere.LoadTexture("../../../Textures/kolobok.jpg");
             plane.LoadTexture("../../../Textures/grass.jpeg");
-            background.LoadTexture("../../../Textures/forest3.jpeg");
+            background.LoadTexture("../../../Textures/forest.jpeg");
 
             // -- Инициализация камеры --
             OpenTK.Mathematics.Vector3 initialSpherePosition = sphere.Position;

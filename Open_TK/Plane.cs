@@ -76,17 +76,12 @@ namespace Open_TK
             LoadTextureInternal(path, TextureUnit.Texture1, true);
         }
 
+        public override Matrix4 GetModelMatrix() {
+            return Matrix4.CreateTranslation(Position);
+        }
+
         public override void Render(Shader shader) {
-            Matrix4 model = Matrix4.CreateTranslation(Position);
-            int modelLocation = GL.GetUniformLocation(shader.shaderHandle, "model");
-            GL.UniformMatrix4(modelLocation, true, ref model);
-
-            GL.ActiveTexture(TextureUnit.Texture0);
-            GL.BindTexture(TextureTarget.Texture2D, TextureId);
-
-            GL.BindVertexArray(Vao);
-            GL.BindBuffer(BufferTarget.ElementArrayBuffer, Ebo);
-            GL.DrawElements(OpenTK.Graphics.OpenGL4.PrimitiveType.Triangles, indices.Length, DrawElementsType.UnsignedInt, 0);
+            base.Render(shader);
         }
         public override void CleanUp() {
             base.CleanUp();

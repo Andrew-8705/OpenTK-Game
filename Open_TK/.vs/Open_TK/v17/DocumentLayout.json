@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\",
+  "WorkspaceRootPath": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\open_tk\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\andrew-8705\\opentk-game\\open_tk\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\open_tk\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|solutionrelative:coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\open_tk\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\open_tk\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|solutionrelative:obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\open_tk\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\andrew-8705\\opentk-game\\open_tk\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\open_tk\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|solutionrelative:plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\andrew-8705\\opentk-game\\open_tk\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|solutionrelative:coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\open_tk\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\andrew-8705\\opentk-game\\open_tk\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|solutionrelative:obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\andrew-8705\\opentk-game\\open_tk\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|solutionrelative:sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|c:\\users\\andrew_baldin\\source\\repos\\andrew-8705\\opentk-game\\open_tk\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05AB4E7-167E-45ED-A965-451548E06E4F}|Open_TK.csproj|solutionrelative:plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,13 +38,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Game.cs",
+              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
-              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Game.cs",
+              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Game.cs",
               "RelativeToolTip": "Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T21:36:21.599Z",
               "IsPinned": true,
@@ -58,40 +54,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\GameObject.cs",
               "RelativeDocumentMoniker": "GameObject.cs",
-              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\GameObject.cs",
+              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\GameObject.cs",
               "RelativeToolTip": "GameObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T20:34:36.587Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Plane.cs",
-              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Plane.cs",
-              "RelativeDocumentMoniker": "Plane.cs",
-              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Plane.cs",
-              "RelativeToolTip": "Plane.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAgwFkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T22:04:42.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Sphere.cs",
-              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Sphere.cs",
-              "RelativeDocumentMoniker": "Sphere.cs",
-              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Sphere.cs",
-              "RelativeToolTip": "Sphere.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAkwGIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T22:03:54.744Z",
               "EditorCaption": ""
             },
             {
@@ -99,40 +69,57 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Plane.cs",
+              "RelativeDocumentMoniker": "Plane.cs",
+              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Plane.cs",
+              "RelativeToolTip": "Plane.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:04:42.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sphere.cs",
+              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Sphere.cs",
+              "RelativeDocumentMoniker": "Sphere.cs",
+              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Sphere.cs",
+              "RelativeToolTip": "Sphere.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:03:54.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Coin.cs",
-              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Coin.cs",
+              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Coin.cs",
               "RelativeDocumentMoniker": "Coin.cs",
-              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Coin.cs",
+              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Coin.cs",
               "RelativeToolTip": "Coin.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwDcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T16:28:16.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Model.cs",
-              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Model.cs",
-              "RelativeDocumentMoniker": "Model.cs",
-              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Model.cs",
-              "RelativeToolTip": "Model.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T16:22:37.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Obstacle.cs",
-              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Obstacle.cs",
               "RelativeDocumentMoniker": "Obstacle.cs",
-              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Obstacle.cs",
+              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Obstacle.cs",
               "RelativeToolTip": "Obstacle.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAYwH4AAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T10:33:56.558Z",
               "EditorCaption": ""

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z+Cc74aDjA4=",
+  "dgSpecHash": "7++dN1DbdpQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andrew_baldin\\source\\repos\\Open_TK\\Open_TK.csproj",
+  "projectFilePath": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\OpenTK-Game\\Open_TK\\Open_TK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andrew_baldin\\.nuget\\packages\\assimpnet\\4.1.0\\assimpnet.4.1.0.nupkg.sha512",
     "C:\\Users\\andrew_baldin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

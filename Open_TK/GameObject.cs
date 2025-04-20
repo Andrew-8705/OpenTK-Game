@@ -16,7 +16,22 @@ namespace Open_TK
         public List<Vector2> texCoords;
         public uint[] indices;
         public int textureVbo;
-        public abstract void Render(Shader shader);
+        public abstract Matrix4 GetModelMatrix();
+        public virtual void Render(Shader shader) {
+            Matrix4 model = GetModelMatrix();
+            int modelLocation = GL.GetUniformLocation(shader.shaderHandle, "model");
+            GL.UniformMatrix4(modelLocation, true, ref model);
+
+            GL.ActiveTexture(TextureUnit.Texture0);
+            GL.BindTexture(TextureTarget.Texture2D, TextureId);
+            int textureSelectorLocation = GL.GetUniformLocation(shader.shaderHandle, "textureSelector");
+            GL.Uniform1(textureSelectorLocation, 0);
+
+            GL.BindVertexArray(Vao);
+            GL.BindBuffer(BufferTarget.ElementArrayBuffer, Ebo);
+            GL.DrawElements(PrimitiveType.Triangles, indices.Length, DrawElementsType.UnsignedInt, 0);
+            GL.BindVertexArray(0);
+        }
 
         protected void LoadTextureInternal(string path, TextureUnit textureUnit = TextureUnit.Texture0, bool flipVertical = false) {
             TextureId = GL.GenTexture();
